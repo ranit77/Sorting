@@ -10,7 +10,7 @@ void sel_sort(int a[],int n)
         {
             if(a[min]>a[j])
             {
-		min=j;
+	      min=j;
             }
         }
 	temp=a[i];
