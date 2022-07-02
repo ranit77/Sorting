@@ -10,3 +10,5 @@ Different Sorting Techniques used:
 3)Insertion Sort
 
 4)Quick Sort
+
+5)Merge Sort
